@@ -1,0 +1,32 @@
+body {
+    background-color: grey;
+}
+
+#name {
+    color: darkblue;
+    font-size: 100px;
+}
+
+#city {
+    color: darkred;
+    font-size: 80px;
+}
+
+#reset {
+    color: black;
+    background-color: darkred;
+    font-size: 80px;
+}
+
+p {
+    font-size: 100px;
+
+}
+
+ol {
+    font-size: 80px;
+}
+
+li {
+   font-size: 50px; 
+}
